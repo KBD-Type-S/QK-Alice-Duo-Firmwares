@@ -1,6 +1,10 @@
-# [QK Alice Duo Firmware Upgrade Guide ](https://qwertykeys.notion.site/QK-Alice-Duo-Firmware-Upgrade-Guide-1ce3d0900942803fbdafd654f5b3aca0)
+# QK Alice Duo Firmware Upgrade Guide
 
-[Additional Guide Page](https://novel.qwertykeys.com/keyboard/QK%20ALICE%20DUO)
+[QK Alice Duo Firmware Upgrade Guide - Notion](https://qwertykeys.notion.site/QK-Alice-Duo-Firmware-Upgrade-Guide-1ce3d0900942803fbdafd654f5b3aca0)
+
+[Korean Guide - Mechanicalkeyboard Gallery](https://gall.dcinside.com/mgallery/board/view/?id=mechanicalkeyboard&no=2347299)
+
+[Update Log Page](https://novel.qwertykeys.com/keyboard/QK%20ALICE%20DUO)
 
 Users with firmware versions below 1.0.2 must first upgrade to v1.0.2(Firmware download link https://pan.quark.cn/s/e83f19a135b9) before installing this version to avoid data corruption.
 The updated contain of v1.0.5(Firmware download link  https://novel.qwertykeys.com/keyboard/QK%20ALICE%20DUO):
